@@ -12,6 +12,7 @@ public class ClsBodega {
     // Encapsulamiento
     // Gets y Sets
     
+    private String prueba;
     private String codigo;
     private int capacidad;
     private String nombre;
